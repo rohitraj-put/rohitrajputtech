@@ -1,0 +1,4 @@
+[build]
+  command = "npm install && npm run build" # Change if using yarn or another package manager
+  publish = "dist"  # Change this to your actual build output folder (e.g., build, public, dist)
+
